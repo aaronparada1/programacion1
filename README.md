@@ -1,2 +1,3 @@
 # programacion1
-Asignatura programacion I Telecomunicaciones uvigo
+practicas de la asignatura programacion I del grado de ingenieria de telecomunicaciones de la universidad de Vigo
+Aaron Parada
